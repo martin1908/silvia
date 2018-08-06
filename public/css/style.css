@@ -1,0 +1,22 @@
+.product-wrapper .action-links a {
+    background: #343434 !important;
+    -webkit-border-radius: 50px !important;
+    border-radius: 50px !important;
+    color: #fff !important;
+    display: block !important;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif !important;
+    font-size: 1em !important;
+    font-weight: 500 !important;
+    height: 44px !important;
+    line-height: 44px !important;
+    margin-bottom: 5px !important;
+    text-align: center !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    -webkit-transition: all .3s ease !important;
+    -moz-transition: all .3s ease !important;
+    -ms-transition: all .3s ease !important;
+    -o-transition: all .3s ease !important;
+    transition: all .3s ease !important;
+    width: 120px !important;
+}
